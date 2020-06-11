@@ -1,4 +1,4 @@
-# Compute Distance Object To Camera
+# Real-time Distance Measurement between a camera and your face using webcam
 
 ## Introduction
 

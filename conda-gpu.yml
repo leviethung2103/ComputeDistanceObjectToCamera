@@ -1,0 +1,17 @@
+name: tracker-hung
+
+dependencies:
+  - python==3.7
+  - pip
+  - matplotlib
+  - cudnn
+  - cudatoolkit==10.1.243
+  - nb_conda
+  - pip:
+    - tensorflow-gpu==2.1.0
+    - lxml
+    - tqdm
+    - seaborn 
+    - pillow
+    - opencv-python
+    - mxnet==1.5.0b20181209

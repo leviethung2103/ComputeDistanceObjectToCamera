@@ -44,7 +44,7 @@ Will be update later
 
 
 ## Usage
-Check the instruction in notebook
+Check the instruction in my [JupyterNotebook](https://github.com/leviethung2103/ComputeDistanceObjectToCamera/blob/master/computeDistance.ipynb)
 
 ## Acknowledgments
 [Pyimagesearch](https://www.pyimagesearch.com/2015/01/19/find-distance-camera-objectmarker-using-python-opencv/)

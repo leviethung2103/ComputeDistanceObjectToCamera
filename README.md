@@ -27,7 +27,9 @@ Firstly, we need to know the focal length of camera.
 ### Dependent Packages
 
 * numpy
-* opencv-python 
+* opencv-python
+* python 3.6
+* mxnet 
 
 **Conda (Recommended)**
 

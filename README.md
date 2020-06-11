@@ -11,6 +11,8 @@ To accomplish this task we utilized the triangle similarity, which requires us t
 - Computer vision and image processing algorithms can then be used to automatically determine the perceived width/height of the object in pixels and complete the triangle similarity and give us our focal length.
 - Then, in subsequent images we simply need to find our marker/object and utilize the computed focal length to determine the distance to the object from the camera.
 
+Finally, we can get your hand dirty by measure the distance from you face to camera.
+
 ## Steps
 
 ### Calibration 

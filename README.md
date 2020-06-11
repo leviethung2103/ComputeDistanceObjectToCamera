@@ -11,6 +11,15 @@ To accomplish this task we utilized the triangle similarity, which requires us t
 - Computer vision and image processing algorithms can then be used to automatically determine the perceived width/height of the object in pixels and complete the triangle similarity and give us our focal length.
 - Then, in subsequent images we simply need to find our marker/object and utilize the computed focal length to determine the distance to the object from the camera.
 
+## Steps
+
+### Calibration 
+Firstly, we need to know the focal length of camera. 
+
+### Estimate the width of object in pixels - camera 
+
+### Run the demo on webcam
+
 ## Getting Started
 
 ### Dependent Packages
@@ -27,20 +36,13 @@ conda activate conda-gpu
 ```
 
 
-
 ## Video Example
 
 Will be update later
 
 
-
 ## Usage
-
-* Initialize the list of images in line32
-
-```python
-python computeDistance.py
-```
+Check the instruction in notebook
 
 ## Acknowledgments
 [Pyimagesearch](https://www.pyimagesearch.com/2015/01/19/find-distance-camera-objectmarker-using-python-opencv/)
